@@ -1,0 +1,13 @@
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.exe.config
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.exe
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.pdb
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.exe
+C:\Users\NARAYANA\Source\Repos\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.pdb
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.exe.config
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.exe
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\bin\Debug\Ex4_Person.pdb
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.csprojAssemblyReference.cache
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.exe
+C:\Users\Personal\Downloads\Programs-master\Ex4_Person\Ex4_Person\obj\Debug\Ex4_Person.pdb

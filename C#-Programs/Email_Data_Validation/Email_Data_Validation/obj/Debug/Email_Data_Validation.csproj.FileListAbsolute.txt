@@ -1,0 +1,6 @@
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\bin\Debug\Email_Data_Validation.exe.config
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\bin\Debug\Email_Data_Validation.exe
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\bin\Debug\Email_Data_Validation.pdb
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\obj\Debug\Email_Data_Validation.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\obj\Debug\Email_Data_Validation.exe
+C:\Users\NARAYANA\Source\Repos\Email_Data_Validation\Email_Data_Validation\obj\Debug\Email_Data_Validation.pdb

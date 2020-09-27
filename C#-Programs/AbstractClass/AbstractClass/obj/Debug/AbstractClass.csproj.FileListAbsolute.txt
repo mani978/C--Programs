@@ -1,0 +1,14 @@
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\NARAYANA\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Personal\Downloads\Programs-master\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

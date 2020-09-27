@@ -1,0 +1,6 @@
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.exe.config
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.exe
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\bin\Debug\CommandLineArguments.pdb
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.exe
+C:\Users\NARAYANA\Source\Repos\CommandLineArguments\CommandLineArguments\obj\Debug\CommandLineArguments.pdb

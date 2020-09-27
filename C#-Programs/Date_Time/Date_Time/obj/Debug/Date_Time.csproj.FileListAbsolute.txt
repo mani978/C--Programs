@@ -1,0 +1,6 @@
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\obj\Debug\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\NARAYANA\Source\Repos\Date_Time\Date_Time\obj\Debug\Date_Time.pdb

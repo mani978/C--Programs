@@ -1,0 +1,6 @@
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\NARAYANA\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
